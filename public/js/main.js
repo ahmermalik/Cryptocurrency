@@ -80,7 +80,3 @@ $(document).ready(function(){
     })
     setTimeout(() => {}, 1000)
 })
-
-
-
-sdadss
